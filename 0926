@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
- <mate charset="utf-8"/>
+ <meta charset="utf-8"/>
   <title>カレー</title>
  </head>
  <body>
@@ -9,6 +9,8 @@
  <p><a href="http://www.t-kougei.ac.jp/index.html">工芸大学ｎ公式ホームページ</a></p>
  
  <p>カレーのレシピをざっくり紹介</p>
+ <p><strong>本当に<mark>ざっくりと</mark>紹介します！</strong></p>
+ 
   <h1>材料</h1>
   <p1>次の材料を用意します</p1>
   <u1>
@@ -18,12 +20,20 @@
    <li>じゃがいも</li>
    <li>カレールウ</li>
   <o1>
-   <li>たまねぎを炒める</li>
+   <li>たまねぎを炒(</rp><rt>いた</rt></rp>)める</li>
    <li>牛肉を炒める</li>
    <li>切ったニンジンとじゃがいもを炒める</li>
    <li>煮る</li>
    <li>カレールウを入れる</li>
    <li>一晩おく</li>
+   <img src="http://www.kikkoman.co.jp/homecook/search/recipe/img/00003600.jpg" alt"カレー"/>
+   
+   <table>
+   <tr><th>材料</tr><th>分量</tr><th>単位</th></tr>
+   <tr><th>あい</tr><th>うえ</tr><th>お</th></tr>
+   <tr><th>かき</tr><th>くけ</tr><th>こ</th></tr>
+   <tr><th>さし</tr><th>すせ</tr><th>そ</th></tr>
+   
   </o1>
  </body>
 </html>
