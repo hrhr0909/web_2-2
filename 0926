@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <mate charset="utf-8"/>
+  <title>カレー</title>
+ </head>
+ <body>
+ 
+ <p><a href="http://www.t-kougei.ac.jp/index.html">工芸大学ｎ公式ホームページ</a></p>
+ 
+ <p>カレーのレシピをざっくり紹介</p>
+  <h1>材料</h1>
+  <p1>次の材料を用意します</p1>
+  <u1>
+   <li>牛バラ肉</li>
+   <li>にんじん</li>
+   <li>たまねぎ</li>
+   <li>じゃがいも</li>
+   <li>カレールウ</li>
+  <o1>
+   <li>たまねぎを炒める</li>
+   <li>牛肉を炒める</li>
+   <li>切ったニンジンとじゃがいもを炒める</li>
+   <li>煮る</li>
+   <li>カレールウを入れる</li>
+   <li>一晩おく</li>
+  </o1>
+ </body>
+</html>
